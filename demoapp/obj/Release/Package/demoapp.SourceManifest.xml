@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\jb232\Documents\GitHub\test3\jbilal23\test3\demoapp\obj\Release\Package\PackageTmp" />
+  <setAcl path="C:\Users\jb232\Documents\GitHub\test3\jbilal23\test3\demoapp\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="C:\Users\jb232\Documents\GitHub\test3\jbilal23\test3\demoapp\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>

@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            This is a a PRIMARY application
+            This is a SAMEEN's application
         </div>
     </form>
 </body>
